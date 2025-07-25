@@ -1,0 +1,7 @@
+*.log
+employee.csv
+output.txt
+.vscode/
+.DS_Store
+*.swp
+.idea/
